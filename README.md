@@ -1,7 +1,12 @@
 # Office Tool Plus cài đặt Office theo ý muốn
 - Đây là một chương trình giúp bạn download và cài đặt một bộ Office như ý.
-- [Download Office Tool Plus](https://otp.landian.vip/en-us/download.html#google_vignette)
-- ![image](https://github.com/user-attachments/assets/21764d49-7527-49f9-8665-782a9c32d742)
-- Giải nén.
-- Chạy file **Office Tool Plus.exe**
-- 
+- Bước 1: Download và giải nén:
+  - [Download Office Tool Plus](https://otp.landian.vip/en-us/download.html#google_vignette)
+  - ![image](https://github.com/user-attachments/assets/21764d49-7527-49f9-8665-782a9c32d742)
+- Bước 2: Chạy file kích hoạt Office Tool Plus với giao diện như ảnh minh họa
+  - Chạy file **Office Tool Plus.exe**
+  - ![image](https://github.com/user-attachments/assets/417e5903-3942-4260-a10c-4421de7190fd)
+- Bước 3: Thực hiện theo hướng dẫn thứ tự 1 ⇒ 2 ⇒ 3 như hình dưới để cài đặt Office. 
+  - ![image](https://github.com/user-attachments/assets/58bb4a1d-802f-47bf-ac6f-f7002c2521cc)
+- Bước 4: Hãy chờ cho đến khi quá trình cài đặt diễn ra thành công và tự điọng chuyển sang hình chiếc chìa khóa để active office
+  - ![image](https://github.com/user-attachments/assets/9ed38384-d9f3-448f-8a6f-ab8e51e39f8e)
