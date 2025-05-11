@@ -16,7 +16,7 @@
 - **Một số địa chỉ máy chủ:**
   -  192.168.2.81.2.7.0
   -  122.226.152.230
-  -  
+  -  127.0.0.2
 
 - ![image](https://github.com/user-attachments/assets/1587ad4c-bd38-4d01-9060-af9f9a1d83de)
 - Bước 1: Chọn Kích hoạt.
