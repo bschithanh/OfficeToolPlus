@@ -19,12 +19,7 @@
   -  210.211.108.204
   -  107.175.77.7
   -  127.0.0.2
-  -  s8.uk.to
-  -  s9.uk.to
-  -  kms7.MSGuides
-  -  kms8.MSGuides
-  -  kms9.MSGuides
-  -  kms.lotro.cc
+
 
 - ![image](https://github.com/user-attachments/assets/1587ad4c-bd38-4d01-9060-af9f9a1d83de)
 - Bước 1: Chọn Kích hoạt.
