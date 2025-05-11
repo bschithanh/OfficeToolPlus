@@ -19,8 +19,11 @@
   -  210.211.108.204
   -  107.175.77.7
   -  54.223.212.31
+  -  58.173.212.51
   -  222.184.9.98
+  -  45.78.3.223
   -  127.0.0.2
+  -  140.133.45.107
   -  cy2617.jios.org
   -  kms.cangshui.net
   -  kms.chinancce.com
@@ -28,25 +31,11 @@
   -  kms.mogeko.me
   -  amrice.top
   -  kms.ddddg.cn
+  -  zh.us.to
+  -  noip.me
 
 
-zh.us.to
-noair.strangled.net:1688
-Offline kms host address:
-mhd.kmdns.net110
-noip.me
-45.78.3.223
-kms.didichuxing.coms
-140.133.45.107
-toxykz.f3322.org
-cckms.nccu.edu.tw
-192.168.2.81.2.7.0
-vhk.3322.org
-uitsckms.uit.tufts.edu
-kms.isu.edu.tw
-kms.crackmywpa.com
-58.173.212.51
-lsu-kms.lsu.edu
+
 win81.no-ip.org
 whwebsolution.no-ip.org
 kms.guowaifuli.com
