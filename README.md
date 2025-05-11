@@ -40,7 +40,7 @@
 
 - ![image](https://github.com/user-attachments/assets/1587ad4c-bd38-4d01-9060-af9f9a1d83de)
 - Bước 1: Chọn Kích hoạt.
-- Bước 2: Chon địa chỉ máy chủ hoặc tên máy chủ
+- Bước 2: Chọn địa chỉ máy chủ hoặc tên máy chủ
 - Bước 3: Nhập key KMS hoặc key xịn cũng được, rồi nhấn enter.
 - ![image](https://github.com/user-attachments/assets/07adfe24-a187-4503-84a0-b6e0b4229da6)
 - ![image](https://github.com/user-attachments/assets/9b8228fd-9d54-4ef3-8314-e207cf5bee15)
