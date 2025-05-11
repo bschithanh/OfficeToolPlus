@@ -27,24 +27,9 @@
   -  kms.ddns.net
   -  kms.mogeko.me
   -  amrice.top
+  -  kms.ddddg.cn
 
-mvg.zpale.com
-kms.shuax.com
-kensol263.imwork.net:1688
-xykz.f3322.org
-kms789.com
-dimanyakms.sytes.net:1688
-kms8.MSGuides.com
-kms.03k.org:1688
-kms.ymgblog.com
-kms.bige0.com
-kms9.MSGuides.com
-kms.cz9.cn
-kms.lolico.moe
-kms.ddddg.cn
-kms.zhuxiaole.org
-kms.moeclub.org
-kms.lotro.cc
+
 zh.us.to
 noair.strangled.net:1688
 Offline kms host address:
