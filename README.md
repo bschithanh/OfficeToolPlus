@@ -18,7 +18,66 @@
   -  122.226.152.230
   -  210.211.108.204
   -  107.175.77.7
+  -  54.223.212.31
+  -  222.184.9.98
   -  127.0.0.2
+  -  cy2617.jios.org
+  -  kms.cangshui.net
+  -  kms.chinancce.com
+  -  kms.ddns.net
+  -  kms.mogeko.me
+  -  amrice.top
+
+mvg.zpale.com
+kms.shuax.com
+kensol263.imwork.net:1688
+xykz.f3322.org
+kms789.com
+dimanyakms.sytes.net:1688
+kms8.MSGuides.com
+kms.03k.org:1688
+kms.ymgblog.com
+kms.bige0.com
+kms9.MSGuides.com
+kms.cz9.cn
+kms.lolico.moe
+kms.ddddg.cn
+kms.zhuxiaole.org
+kms.moeclub.org
+kms.lotro.cc
+zh.us.to
+noair.strangled.net:1688
+Offline kms host address:
+mhd.kmdns.net110
+noip.me
+45.78.3.223
+kms.didichuxing.coms
+140.133.45.107
+toxykz.f3322.org
+cckms.nccu.edu.tw
+192.168.2.81.2.7.0
+vhk.3322.org
+uitsckms.uit.tufts.edu
+kms.isu.edu.tw
+kms.crackmywpa.com
+58.173.212.51
+lsu-kms.lsu.edu
+win81.no-ip.org
+whwebsolution.no-ip.org
+kms.guowaifuli.com
+106.186.25.2393
+rss.vicp.net:20439
+122.226.152.230
+222.76.251.188
+98.212.2.163
+annychen.pw
+heu168.6655.la
+kms.aglc.cc
+kms.landiannews.com
+kms.xspace.in
+147.134.1.42
+winkms.tk
+kms7.MSGuides.com
 
 
 - ![image](https://github.com/user-attachments/assets/1587ad4c-bd38-4d01-9060-af9f9a1d83de)
