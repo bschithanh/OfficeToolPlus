@@ -21,6 +21,11 @@
   -  54.223.212.31
   -  58.173.212.51
   -  222.184.9.98
+  -  106.186.25.2393
+  -  122.226.152.230
+  -  222.76.251.188
+  -  147.134.1.42
+  -  98.212.2.163
   -  45.78.3.223
   -  127.0.0.2
   -  140.133.45.107
@@ -33,26 +38,6 @@
   -  kms.ddddg.cn
   -  zh.us.to
   -  noip.me
-
-
-
-win81.no-ip.org
-whwebsolution.no-ip.org
-kms.guowaifuli.com
-106.186.25.2393
-rss.vicp.net:20439
-122.226.152.230
-222.76.251.188
-98.212.2.163
-annychen.pw
-heu168.6655.la
-kms.aglc.cc
-kms.landiannews.com
-kms.xspace.in
-147.134.1.42
-winkms.tk
-kms7.MSGuides.com
-
 
 - ![image](https://github.com/user-attachments/assets/1587ad4c-bd38-4d01-9060-af9f9a1d83de)
 - Bước 1: Chọn Kích hoạt.
