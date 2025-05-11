@@ -28,15 +28,15 @@
   -  58.173.212.51
   -  54.223.212.31
   -  45.78.3.223
+  -  amrice.top
   -  cy2617.jios.org
   -  kms.cangshui.net
   -  kms.chinancce.com
   -  kms.ddns.net
   -  kms.mogeko.me
-  -  amrice.top
   -  kms.ddddg.cn
-  -  zh.us.to
   -  noip.me
+  -  zh.us.to
 
 - ![image](https://github.com/user-attachments/assets/1587ad4c-bd38-4d01-9060-af9f9a1d83de)
 - Bước 1: Chọn Kích hoạt.
