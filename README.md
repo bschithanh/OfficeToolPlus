@@ -10,3 +10,14 @@
   - ![image](https://github.com/user-attachments/assets/58bb4a1d-802f-47bf-ac6f-f7002c2521cc)
 - Bước 4: Hãy chờ cho đến khi quá trình cài đặt diễn ra thành công và tự điọng chuyển sang hình chiếc chìa khóa để active office
   - ![image](https://github.com/user-attachments/assets/9ed38384-d9f3-448f-8a6f-ab8e51e39f8e)
+
+#Kích hoạt Office bằng Toos Office Prolus
+
+  - ![image](https://github.com/user-attachments/assets/1587ad4c-bd38-4d01-9060-af9f9a1d83de)
+  - Bước 1: Chọn Kích hoạt.
+  - Bước 2: Chon địa chỉ máy chủ.
+  - Bước 3: Nhập key KMS hoặc key xịn cũng được, rồi nhấn enter.
+  - ![image](https://github.com/user-attachments/assets/07adfe24-a187-4503-84a0-b6e0b4229da6)
+  - ![image](https://github.com/user-attachments/assets/9b8228fd-9d54-4ef3-8314-e207cf5bee15)
+
+Done!
