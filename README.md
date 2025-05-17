@@ -30,6 +30,7 @@
   -  45.78.3.223
   -  amrice.top
   -  cy2617.jios.org
+  -  kms8.msguides.com
   -  kms.cangshui.net
   -  kms.chinancce.com
   -  kms.ddns.net
